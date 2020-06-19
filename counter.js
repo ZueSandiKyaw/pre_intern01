@@ -10,6 +10,6 @@ function count()
 
     if (counter % 10 === 0)
     {
-        alert ('Counter is at ${counter}!');
+        alert (`Counter is at ${counter}!`);
     }
 }
